@@ -1,0 +1,10 @@
+Instituto de Saude Avicenna - site institucional e painel administrativo
+
+Como executar
+1. Instalar: pip install -r requirements.txt
+2. Arrancar: python app.py
+3. Site: http://localhost:5000
+4. Painel: http://localhost:5000/admin/login
+
+Acesso inicial: usuario admin, senha admin123 (altere logo em Alterar senha).
+No painel: precos de inscricao, matricula e mensalidade, cursos, textos e contactos, galeria e pre inscricoes.
